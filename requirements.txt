@@ -7,7 +7,4 @@ Werkzeug==2.3.7
 gunicorn==21.2.0
 google-cloud-storage==2.13.0
 openai-whisper==20231117
-<<<<<<< HEAD
 Flask-Migrate==4.0.5
-=======
->>>>>>> ec507978510e8a8a36dd9aa716900762167827f0
