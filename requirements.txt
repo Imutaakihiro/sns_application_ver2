@@ -7,4 +7,4 @@ Werkzeug==2.3.7
 gunicorn==21.2.0
 google-cloud-storage==2.13.0
 openai-whisper==20231117
-ここまではダウンロード済み
+Flask-Migrate==4.0.5
